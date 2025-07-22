@@ -8,3 +8,5 @@ Contact: ressch.vijay.vishwakarma@igntu.ac.in OR vijaykrvishwakarma@gmail.com, D
 My Educational Blog: Aptipedia Tecknowlegies - https://aptipedia.blogspot.com/
 
 There is a comparison among lexicon-based and transformer-based (FinBERT) method with proposed PCR_SA method.
+
+Install the required python packages such as nltk...
